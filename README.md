@@ -1,144 +1,90 @@
-# Hi, I'm Srinivasan Palanivel 👋
+# Hi there 👋 I'm Srinivasan Palanivel
 
-### Lead SDET | Test Automation Architect | Quality Engineering Enthusiast
+### Lead SDET | Automation Architect | Quality Engineering Enthusiast
 
-Lead SDET with 6+ years of experience designing and scaling UI, API, and Mobile automation solutions across Banking, Insurance, Salesforce CRM, and Enterprise Applications.
+Lead SDET with 6+ years of experience building scalable UI, API, and Mobile Automation solutions across Banking, Insurance, Salesforce CRM, and Enterprise Applications.
 
-I specialize in building maintainable automation frameworks, integrating them into CI/CD pipelines, and driving quality strategy across multiple projects.
+🚀 Built and maintained 500+ automated test cases across multiple enterprise applications
 
----
-
-## 🚀 What I Do
-
-* UI Automation using Selenium WebDriver & Playwright
-* API Automation using RestAssured & Postman
-* Mobile Automation using Appium
-* Test Framework Architecture & Design
-* CI/CD Integration using Jenkins & GitHub
-* Agile Quality Engineering
-* AI-Assisted Test Engineering
+⚡ Driving quality through Automation, CI/CD, and AI-assisted Engineering
 
 ---
 
-## 💼 Professional Highlights
+## 💡 About Me
 
-* Built and maintained automation frameworks supporting **500+ automated test cases**
-* Led quality strategy across **4+ concurrent projects**
-* Automated critical workflows across Banking, Insurance, Salesforce, and Customer-facing platforms
-* Integrated automation suites into CI/CD pipelines for continuous regression execution
-* Reduced Insurance Pricing Engine regression cycle from **2 weeks to 3–4 days**
-* Introduced Playwright automation and Appium mobile automation initiatives
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-* Java
-* TypeScript
-* JavaScript
-
-### Automation
-
-* Selenium WebDriver
-* Playwright
-* Appium
-* TestNG
-* Cucumber BDD
-
-### API Testing
-
-* RestAssured
-* Postman
-
-### DevOps & Tools
-
-* Jenkins
-* GitHub Actions
-* Maven
-* Jira
-* QMetry
-
-### AI Tools
-
-* GitHub Copilot
-* Microsoft 365 Copilot
-* LLM-Assisted Testing
+* 🔭 Currently working as a Lead SDET
+* 🌱 Exploring AI-Powered Testing & Agentic AI
+* 🏗️ Passionate about Framework Design & Test Architecture
+* 🤖 Automating repetitive testing processes whenever possible
+* 📍 Chennai, India
 
 ---
 
-## 📌 Featured Projects
+## ⚙️ Tech Arsenal
 
-### Selenium Automation Framework
+`Java` `TypeScript` `JavaScript`
 
-Enterprise-grade Selenium framework using:
+`Selenium` `Playwright` `Appium`
 
-* Java
-* TestNG
-* Page Object Model
-* Reporting
-* CI/CD Integration
+`RestAssured` `Postman`
 
-### Playwright Framework
+`TestNG` `Cucumber BDD`
 
-Modern UI automation framework built with:
+`Jenkins` `GitHub Actions`
 
-* TypeScript
-* Playwright
-* Parallel Execution
-* Cross-browser Testing
+`Maven` `GitHub`
 
-### API Automation Framework
-
-API testing solution using:
-
-* RestAssured
-* TestNG
-* Request/Response Validation
-* Data-driven Testing
-
-### Mobile Automation Framework
-
-Cross-platform mobile automation using:
-
-* Appium
-* Android
-* iOS
-* Page Object Design
+`GitHub Copilot` `Microsoft 365 Copilot`
 
 ---
 
-## 🌱 Currently Exploring
+## 🚀 Featured Work
 
-* AI-Powered Test Automation
-* LLM-Based Test Generation
-* Agentic AI for Quality Engineering
-* MCP & AI Tool Integrations
-* Vectorless RAG Concepts
-
----
-
-## 📈 GitHub Goals
-
-Building practical repositories that demonstrate:
-
-* Framework Architecture
-* Automation Design Patterns
-* CI/CD Best Practices
-* AI for Software Testing
-* Real-world Enterprise Automation Solutions
+| Project                        | Focus Area                  |
+| ------------------------------ | --------------------------- |
+| 🔹 Selenium Framework          | Enterprise UI Automation    |
+| 🔹 Playwright Framework        | Modern Web Automation       |
+| 🔹 API Automation Framework    | RestAssured Testing         |
+| 🔹 Mobile Automation Framework | Appium                      |
+| 🔹 AI Testing Lab              | LLM & AI Experiments        |
+| 🔹 Automation Utilities        | Reusable Testing Components |
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Career Highlights
 
-💼 LinkedIn: linkedin.com/in/srinivasan-palanivel
+✔ Reduced a 5-year manual regression process from 2 weeks to 3–4 days
+
+✔ Built automation solutions across Banking, Insurance, Salesforce, and Customer Platforms
+
+✔ Integrated automation suites into CI/CD pipelines for continuous quality validation
+
+✔ Led quality strategy across multiple concurrent projects
+
+✔ Introduced Playwright and Mobile Automation initiatives
+
+---
+
+## 📊 Areas of Interest
+
+* Test Automation Architecture
+* AI in Software Testing
+* Playwright Ecosystem
+* Mobile Test Automation
+* API Quality Engineering
+* CI/CD Automation
+* Quality Engineering Leadership
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn: [www.linkedin.com/in/srinivasan-palanivel](http://www.linkedin.com/in/srinivasan-palanivel)
 
 📧 Email: [sripal0207@gmail.com](mailto:sripal0207@gmail.com)
 
-🌍 Chennai, India
+🐙 GitHub: github.com/SrinivasanPalanivel
 
 ---
 
-> "Quality is not achieved by testing more. It is achieved by designing systems that make defects difficult to create and easy to detect."
+> Building reliable software through scalable automation and continuous quality engineering.
